@@ -1,0 +1,28 @@
+_repo: Great-Testimonyagainst-scientific-cruelty_26074
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coleridge, Stephen
+    birthdate: 1854
+    deathdate: 1936
+    gutenberg_agent_id: '5218'
+    url: http://www.gutenberg.org/2009/agents/5218
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Coleridge
+description: ''
+gutenberg_issued: '2008-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26074'
+  lccn: '18019596'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vivisection'
+- !lcc 'HV'
+title: Great Testimony against scientific cruelty
+url: http://www.gutenberg.org/ebooks/26074
